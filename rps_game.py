@@ -1,3 +1,5 @@
+#Privet
+
 import random
 turns = ['rock', 'paper', 'scissors']
 human_turns = []
